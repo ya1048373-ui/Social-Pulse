@@ -1,0 +1,6 @@
+{
+  "name": "Social Pulse – وكالة تسويق رقمي وإدارة سوشيال ميديا",
+  "description": "وكالة Social Pulse للتسويق الرقمي وإدارة السوشيال ميديا وحملات الإعلانات الممولة وبناء الهوية التجارية. بنرجّع النبض لمشروعك!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
